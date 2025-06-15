@@ -16,13 +16,14 @@ This project is an AI-powered data visualization assistant built with **LangChai
 
 ## 🗂️ Project Structure
 
+```
 .
 ├── app.py                # Streamlit frontend
 ├── llm_chat.py           # Handles prompting and parsing LLM responses
 ├── docker_executor.py    # Executes LLM-generated Python in Docker
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project overview and usage
-
+```
 ---
 
 ## ⚙️ Prerequisites
