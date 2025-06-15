@@ -107,4 +107,3 @@ MIT License © 2025 brian_fez
 - Export charts and code
 - Multiple plot formats (e.g., SVG)
 - Add tests and LLM response validation
-```
