@@ -1,4 +1,3 @@
-```markdown
 # 📊 AI Data Visualization Agent
 
 This project is an AI-powered data visualization assistant built with **LangChain**, **Ollama**, **Docker**, and **Streamlit**. It allows you to upload a CSV dataset, ask natural language questions about it, and receive visual or tabular insights with Python code execution in a secure, sandboxed environment.
@@ -17,14 +16,12 @@ This project is an AI-powered data visualization assistant built with **LangChai
 
 ## 🗂️ Project Structure
 
-```
 .
 ├── app.py                # Streamlit frontend
 ├── llm_chat.py           # Handles prompting and parsing LLM responses
 ├── docker_executor.py    # Executes LLM-generated Python in Docker
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project overview and usage
-```
 
 ---
 
